@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 主要的清单背景 -->
+    <path
+        android:pathData="M33,24 L75,24 Q79,24 79,28 L79,80 Q79,84 75,84 L33,84 Q29,84 29,80 L29,28 Q29,24 33,24 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- 清单顶部装饰 -->
+    <path
+        android:pathData="M47,18 L61,18 Q64,18 64,21 Q64,24 61,24 L47,24 Q44,24 44,21 Q44,18 47,18 Z"
+        android:fillColor="#E0E0E0" />
+    
+    <!-- 第一个任务项 -->
+    <path
+        android:pathData="M37,36 L43,36 Q44,36 44,37 L44,43 Q44,44 43,44 L37,44 Q36,44 36,43 L36,37 Q36,36 37,36 Z"
+        android:fillColor="#4CAF50" />
+    
+    <!-- 第一个任务项的勾选标记 -->
+    <path
+        android:pathData="M37.5,39.5 L39,41 L42.5,37.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    
+    <!-- 第一个任务项的文本线条 -->
+    <path
+        android:pathData="M49,39 L71,39 Q72,39 72,40 Q72,41 71,41 L49,41 Q48,41 48,40 Q48,39 49,39 Z"
+        android:fillColor="#BDBDBD" />
+    
+    <!-- 第二个任务项 -->
+    <path
+        android:pathData="M37,50 L43,50 Q44,50 44,51 L44,57 Q44,58 43,58 L37,58 Q36,58 36,57 L36,51 Q36,50 37,50 Z"
+        android:fillColor="#E0E0E0" />
+    
+    <!-- 第二个任务项的文本线条 -->
+    <path
+        android:pathData="M49,53 L75,53 Q76,53 76,54 Q76,55 75,55 L49,55 Q48,55 48,54 Q48,53 49,53 Z"
+        android:fillColor="#757575" />
+    
+    <!-- 第三个任务项 -->
+    <path
+        android:pathData="M37,64 L43,64 Q44,64 44,65 L44,71 Q44,72 43,72 L37,72 Q36,72 36,71 L36,65 Q36,64 37,64 Z"
+        android:fillColor="#E0E0E0" />
+    
+    <!-- 第三个任务项的文本线条 -->
+    <path
+        android:pathData="M49,67 L67,67 Q68,67 68,68 Q68,69 67,69 L49,69 Q48,69 48,68 Q48,67 49,67 Z"
+        android:fillColor="#757575" />
+    
+    <!-- 底部装饰性加号图标 -->
+    <path
+        android:pathData="M70,67 A8,8 0 1,1 70,83 A8,8 0 1,1 70,67 Z"
+        android:fillColor="#FF5722" />
+    
+    <!-- 加号的垂直线 -->
+    <path
+        android:pathData="M70,71 L70,71 Q71,71 71,72 L71,78 Q71,79 70,79 L70,79 Q69,79 69,78 L69,72 Q69,71 70,71 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- 加号的水平线 -->
+    <path
+        android:pathData="M67,74 L67,74 Q66,74 66,75 L66,75 Q66,76 67,76 L73,76 Q74,76 74,75 L74,75 Q74,74 73,74 Z"
+        android:fillColor="#FFFFFF" />
+        
+</vector>
